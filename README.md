@@ -1,2 +1,2 @@
 # test
-do nauki
+do nauki GitHub'a
